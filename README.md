@@ -18,9 +18,8 @@ Check out the live version of my portfolio ![here](https://github.com/Dirojini/p
 ## 🛠️ Technologies Used
 - **HTML5** - Structure and content
 - **CSS3** - Styling and layout
-- **JavaScript** - Interactivity and dynamic behavior
-- **Bootstrap 5** - Responsive design
-- **Figma** - Design and prototyping
+
+
 
 ## 📂 Project Structure
 ```
@@ -28,8 +27,6 @@ portfolio/
 |-- index.html
 |-- css/
 |   |-- style.css
-|-- js/
-|   |-- script.js
 |-- images/
 |-- projects/
 |-- README.md
@@ -56,9 +53,9 @@ portfolio/
 Feel free to fork this project and submit pull requests if you have ideas for improvements or additional features.
 
 ## 📧 Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dirojini-elankeswaran/)
 - Email: your-email@example.com
 
 ---
-**Built with ❤️ by Dirojini E.**
+**Built  ❤️ by Dirojini E.**
 
