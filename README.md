@@ -53,8 +53,8 @@ portfolio/
 Feel free to fork this project and submit pull requests if you have ideas for improvements or additional features.
 
 ## 📧 Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dirojini-elankeswaran/)
-- Email: your-email@example.com
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/dirojini-elankeswaran/)
+- Email: dirodirojini@gmail.com
 
 ---
 **Built  ❤️ by Dirojini E.**
