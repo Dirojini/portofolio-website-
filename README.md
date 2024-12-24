@@ -2,8 +2,8 @@
 
 Welcome to my personal portfolio! This project is designed to showcase my skills, projects, and experience as a full-stack web developer.
 
-## 🌐 Live Demo
-Check out the live version of my portfolio [here](https://your-portfolio-url.com).
+## 🌐 Live Demo Responsive design
+Check out the live version of my portfolio ![here](https://github.com/Dirojini/portofolio-website-/blob/db77859e4a04cefa413b40021a5780e32965bf0a/Screenshot%202024-12-24%20103150.png).
 
 ## 📸 Preview
 ![Portfolio Preview](preview-image-url)
